@@ -1,0 +1,7 @@
+# Favorite Foods
+
+| Name | My favorite food is |
+|:---  |:---|
+| Rio  |    |
+| Aleks|    |
+| Nancy| any Korean foods    |
