@@ -1,7 +1,8 @@
 # Favorite Foods
 
-| Name | My favorite food is |
+| Name | Favorite food joints |
 |:---  |:---|
 | Aleks| qdoba, any gyro place |
 | Nancy| any Korean foods |
 | Rio  | |
+

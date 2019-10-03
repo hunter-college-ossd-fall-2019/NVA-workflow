@@ -1,0 +1,11 @@
+# Programming languages
+
+Aleks- c++, java
+Nancy -  c++ , html, java, css
+Vioelsdm- python , c#
+
+| Name | Programming Languages |
+|:---  |:---|
+| Aleks| C++, Java |
+| Nancy| C++, Html, CSS, JavaScript, Python |
+| Rio  | Python, C# |
