@@ -1,9 +1,5 @@
 # Programming languages
 
-Aleks- c++, java
-Nancy -  c++ , html, java, css
-Vioelsdm- python , c#
-
 | Name | Programming Languages |
 |:---  |:---|
 | Aleks| C++, Java |
