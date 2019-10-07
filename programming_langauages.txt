@@ -4,4 +4,4 @@
 |:---  |:---|
 | Aleks| C++, Java |
 | Nancy| C++, Html, CSS, JavaScript, Python |
-| Rio  | Python, C# |
+| Roy | Python, C#, C++ |
