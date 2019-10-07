@@ -2,7 +2,7 @@
 
 | Name | Dream Job |
 |:---  |:---|
-| Aleks| Game Developer |
-| Nancy| Software Engineer |
-| Roy  | 3D Artist |
+| Aleks| Video Game Developer |
+| Nancy| IOS Mobile Developer |
+| Roy  | 3D Modeling Artist |
 
